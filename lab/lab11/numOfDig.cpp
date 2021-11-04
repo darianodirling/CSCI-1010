@@ -1,3 +1,7 @@
+//Darian O'Dirling
+//CSCI 1010-002
+//Lab 11_2
+//This program lets the user enter a number and then get the number of digits
 #include <iostream>
 
 using namespace std;
