@@ -1,3 +1,8 @@
+//Darian O'Dirling
+//CSCI 1010-002
+//Lab 12_1
+//This program lets the user enter a series of numbers and then get the numbers reversed
+
 #include <iostream>
 
 using namespace std;

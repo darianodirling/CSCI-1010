@@ -1,3 +1,7 @@
+//Darian O'Dirling
+//CSCI 1010-002
+//Lab 12_2
+//This program  prints out a fibbonacci sequence
 #include <iostream>
 
 using namespace std;
