@@ -1,3 +1,8 @@
+//Darian O'Dirling
+//CSCI 1010-002
+//Lab 12_3
+//This program lets the user enter a series of numbers and then get the smallest and largest number
+
 #include <iostream>
 
 using namespace std;
