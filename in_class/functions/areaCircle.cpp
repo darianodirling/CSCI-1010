@@ -2,8 +2,9 @@
 
 using namespace std;
 
-int largest(double radius, double radius, double area) {
-    
+int area(double radius) {
+
+    double area;
     cout << "Input Radius: " ;
     cin >> radius ;
 
@@ -14,9 +15,12 @@ int largest(double radius, double radius, double area) {
 
 int main()
 {
-    cout << "Enter three integers:";
-    cin >> a1 >> a2 >> a3;
-    cout << "The largest is " << largest(a1, a2, a3) << endl;
+    double r; 
+    double area;
+    cout << "Enter radius:";
+    cin >> r;
+    area(r);
+    cout << "The area is : " << area << endl;
     return 0;
 
 }
