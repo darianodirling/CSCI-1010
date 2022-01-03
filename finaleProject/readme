@@ -1,19 +1,20 @@
 This is a Student informaition Managemnet System that show cases all the fundaments of Algorithmic problem solving
 
 The program can do the following
-  Display menu of all features
-  Add new students
-  Search the students by ID
-  Remove a student
-  Display the stateistics of the grades, including the highest grade, lowest grade and the average grade:
-  Display the student list, including the studetn ID, their names, adn grades
+
+  -Display menu of all features
+  -Add new students
+  -Search the students by ID
+  -Remove a student
+  -Display the stateistics of the grades, including the highest grade, lowest grade and the average grade:
+  -Display the student list, including the studetn ID, their names, adn grades
  
 The programming skill exhited go as follows,
 
-  C++ Libraries
-  Functions
-  For loops
-  Sorting
-  If statements
-  Arrays
-  While loops
+  -C++ Libraries
+  -Functions
+  -For loops
+  -Sorting
+  -If statements
+  -Arrays
+  -While loops
