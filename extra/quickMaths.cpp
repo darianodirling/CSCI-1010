@@ -5,9 +5,9 @@ using namespace std;
 
 int main()
 {
-    double answer; 
+    int answer = 0.0; 
     int remainder, a;
-    remainder = 6 % 31;
+    answer = pow(20,28) % 29;
 
-    cout << remainder  << endl;
+    cout << answer << endl;
 }

@@ -4,7 +4,6 @@ using namespace std;
 
 double compute(char student[], int size)
 {
-    cout << "a" << endl;
     double compute = 0.0;
     double sum = 0;
 
